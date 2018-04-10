@@ -8,3 +8,5 @@ Source files for the Tuts+ tutorial: [Building a WordPress Theme in 60 Seconds](
 **Available on Tuts+ July 2015**
 
 > Modified by Navadeep
+
+This is Change-2 04/10/2018
