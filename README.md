@@ -10,3 +10,5 @@ Source files for the Tuts+ tutorial: [Building a WordPress Theme in 60 Seconds](
 > Modified by Navadeep
 
 This is Change-2 04/10/2018
+
+Change -3 
